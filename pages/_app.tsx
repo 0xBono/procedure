@@ -7,7 +7,7 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <Fragment>
       <Head>
-        <title>Procedure</title>
+        <title>우리도 절차 있는 회사야 ✓</title>
         <meta
           name="viewport"
           content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"

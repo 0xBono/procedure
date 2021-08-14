@@ -58,6 +58,7 @@
     "react/react-in-jsx-scope": "off",
     "jsx-a11y/accessible-emoji": "off",
     "jsx-a11y/anchor-is-valid": "off",
+    "jsx-a11y/no-noninteractive-element-to-interactive-role": "off",
     "no-empty-pattern": "off",
     "no-extra-boolean-cast": "off",
     "jsx-a11y/no-autofocus": "off",
