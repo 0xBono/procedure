@@ -10,12 +10,12 @@ const Carousel = () => {
     <div className={cx('wrap')}>
       <div className={cx('standard-inner')}>
         {Array.from(Array(6)).map((_, i) => (
-          <img key={i} className={cx('carousel-img')} src="/assets/logo-collection.svg" alt="logo" />
+          <img key={i} className={cx('carousel-img')} src="/assets/logo-carousel.svg" alt="logo" />
         ))}
       </div>
       <div className={cx('reversed-inner')}>
         {Array.from(Array(6)).map((_, i) => (
-          <img key={i} className={cx('carousel-img')} src="/assets/logo-collection.svg" alt="logo" />
+          <img key={i} className={cx('carousel-img')} src="/assets/logo-carousel-other.svg" alt="logo" />
         ))}
       </div>
     </div>
